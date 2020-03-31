@@ -19,7 +19,3 @@ Here's the repo for the *Code Cool Stuff With Python* video course. Below is the
 | Files Processing in Python	| Handling text, Excel, Binary, and CSV files in Python	|
 | The Turtle Library | A fun and recreational guide to reinforce python programming principles	|	|
 | The Tkinter Library| Building Desktop apps with Tkinter|
-
-
-Username: \ask IT
-Password: ask IT
