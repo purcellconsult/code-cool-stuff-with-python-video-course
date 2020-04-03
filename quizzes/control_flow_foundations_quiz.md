@@ -120,7 +120,9 @@ Use the following code snippet to answer the following questions:
         print('5-10')
 
 a) Is there anything wrong with the above snippet of code?
+
 b) How would you simplify the chained comparison?  
+
 c) Rewrite this code snippet so that the conditional statements are in different order?
 
 **Question # 18**
