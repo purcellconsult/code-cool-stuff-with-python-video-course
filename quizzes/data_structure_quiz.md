@@ -35,9 +35,9 @@
         'backpack': ['bread loaf', 'water', 'book']
     }
 
-- Add key 'silver' and value 100 to currency
-- add value 'blanket' to backpack
-- Iterate over the dictionary and display all of the values.
+	- Add key 'silver' and value 100 to currency
+	- add value 'blanket' to backpack
+	- Iterate over the dictionary and display all of the values.
 
 
 9) Below is a dictionary named `phone_book` that contains mappings of names with their corresponding numbers as shown below: 
