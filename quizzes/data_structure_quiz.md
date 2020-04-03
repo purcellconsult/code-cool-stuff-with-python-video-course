@@ -12,7 +12,7 @@
 	- Display the total number of times the coin landed on 'h', and the total number of times the coin landed on 't'.
 	- Display which side the coin landed on most in the trial. 
 6. Modify the above program so that the coin flips an arbitrary number of times. Write a program that does the following:
-	- Prompts the user to enter a guess for ‘h’ or ‘t’ to determine what side the coin fell on.
+	- Prompts the user to enter a guess for 'h' or 't' to determine what side the coin fell on.
 	- Keeps track of the total number of correct guesses the user made. 
 	- Tell the user if their guess was correct or incorrect. 
 	- Gives the user the option to terminate the simulation by typing the string 'exit'. If they terminate then the program will display the following:
@@ -21,7 +21,7 @@
 		- The amount of times the coin landed on tails 
 		- The user percentage of correct guesses
 
-7) Write a program that allows the user to enter an arbitrary number of numbers.  The goal is to use a data structure so that only unique numbers will be stored. Answer the following questions:
+7) Write a program that allows the user to enter an arbitrary number of numbers. The goal is to use a data structure so that only unique numbers will be stored. Answer the following questions:
 	- What data structure should you use and why?
 	- Write the code to read in an arbitrary number of user input.
 	- Store the input in said data structure with the name `unique.`
@@ -52,10 +52,10 @@
 
 Write code snippet that does the following:
 
-Prompt the user to type in a name. Then, iterate through the dictionary and see if the name is in the dictionary.  The program should be case insensitive meaning that dan, Dan, DAN, or even dAn will all validate. You can use the built-in `casefold` method from the string class to handle case insensitivity. If a match is found display the following messages:
+Prompt the user to type in a name. Then, iterate through the dictionary and see if the name is in the dictionary. The program should be case insensitive meaning that dan, Dan, DAN, or even dAn will all validate. You can use the built-in `casefold` method from the string class to handle case insensitivity. If a match is found display the following messages:
 
-- `the_key` is in the phone book
-- `the_value`
+	- `the_key` is in the phone book
+	- `the_value`
 
 If no match is found display the message `the_key` is not in the dictionary. `The_key` represents a name in the dictionary, i.e, `mike` or `jill`. `The_value` represents the phone numbers. 
 
