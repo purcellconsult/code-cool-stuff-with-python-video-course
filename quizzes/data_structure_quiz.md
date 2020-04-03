@@ -3,7 +3,7 @@
 1.	Use a loop to generate a list called evens with only even numbers within the range of 1-20.
 
 <details><summary><b>Answer</b></summary>
-<p>
+
 
 #### Answer: D
 
@@ -11,7 +11,7 @@ Within the function, we first declare the `name` variable with the `var` keyword
 
 Variables with the `let` keyword (and `const`) are hoisted, but unlike `var`, don't get <i>initialized</i>. They are not accessible before the line we declare (initialize) them. This is called the "temporal dead zone". When we try to access the variables before they are declared, JavaScript throws a `ReferenceError`.
 
-</p>
+
 </details>
 2.	Use a loop to generate the first 10 factorials and store them in a list. 
 3.	Use a loop to generate the square root of the numbers from 1-20 and then add them in a list called `square_roots`. Then, iterate over the list and create a variable called `sum` that adds all of the numbers in `square_root`s together. 
