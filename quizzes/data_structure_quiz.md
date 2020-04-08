@@ -58,18 +58,11 @@
 	
 Write code snippet that does the following:
 
-	```
-	Prompt the user to type in a name. Then, 
-	iterate through the dictionary and see if the 
-	name is in the dictionary. The program should
-	be case insensitive meaning that dan, Dan, DAN, 
-	or even dAn will all validate. You can use the 
-	built-in `casefold` method from the string class 
-	to handle case insensitivity. If a match is 
-	found display the following messages:
-	```
+Prompt the user to type in a name. Then,  iterate through the dictionary and see if the name is in the dictionary. The program should be case insensitive meaning that dan, Dan, DAN,  or even dAn will all validate. You can use the built-in `casefold` method from the string class to handle case insensitivity. If a match is found display the following messages:
 
 - `the_key` is in the phone book
 - `the_value`
 
 If no match is found display the message `the_key` is not in the dictionary. `The_key` represents a name in the dictionary, i.e, `mike` or `jill`.  ``The_value`` represents the phone numbers. 
+
+
