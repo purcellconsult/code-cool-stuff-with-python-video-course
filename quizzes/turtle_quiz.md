@@ -39,15 +39,15 @@ the ``forward()`` and ``backward()`` methods.
 		d) none of the above  
 
 7) Use turtle to draw a rectangle that's 500 px wide, 50 px tall, and with a background color of purple. 
-![purple rectangle](quizzes/images/purple_rect.jpg)
+![purple rectangle](images/purple_rect.jpg)
 
 8) Use turtle to draw an octagon. An octagon is an eight-sided polygon that also contains eight angles. Make the length of each side equal to 100 pixels. 
-![octagon](quizzes/images/octagon.jpg)
+![octagon](/images/octagon.jpg)
 
 9) Create a stop sign. A stop sign is simply an octagon with a red background, and the text STOP in the center. Use the figure you drew from question 8 as your base. 
 
-![stop sign](quizzes/images/stop_sign.jpg)
+![stop sign](/images/stop_sign.jpg)
 
 10)  Use turtle to draw the olympic rings. The olympic rings consists of 5 circles positioned like in the image shown below:
 
-![Olympic Rings](quizzes/images/olympic_rings.jpg)		
+![Olympic Rings](/images/olympic_rings.jpg)		
