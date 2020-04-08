@@ -8,7 +8,7 @@ Here's the repo for the *Code Cool Stuff With Python* video course. Below is the
 
 | Title | Description       |  Resources  |
 |--|--| -- |
-| Overview of Python |  Motivation for learning python.
+| Overview of Python |  Motivation for learning python
 | How to Install Python on Any Machine  | Resources, tips, and instructions for installing python  |    |
 | Building basic python programs | Learn about the python interpreter and how to run programs from the command line | [Text Based Calculator](/projects/text_based_calc_project.md) 	|
 Control Flow Foundations  | Control the order in which statements execute in python. Part I  |     |
