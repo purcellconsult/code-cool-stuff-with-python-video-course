@@ -24,6 +24,8 @@
 	- 300 pixels wide and 300 pixels
 	- Contains the title *Simple GUI*
 	- Has a background color of *#59A*
+	
+	Here's an example image: 
 
 	![Simple GUI](images/simple_gui.png)
 	
@@ -33,4 +35,6 @@
 	-	Contains a text widget with height 10 and width 30
 	-	Inside the text widget put your favorite quote 
 	
-![Simple GUI](images/another_simple_gui.png)
+	Here's an example image: 
+	
+	![Simple GUI](images/another_simple_gui.png)
