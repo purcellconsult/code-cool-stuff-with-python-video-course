@@ -13,5 +13,5 @@ These quizzes are recommended to do with the *Code Cool Stuff with Python* video
 - The Tkinter module for building GUIs
 
 If you're curious about any of the solutions or would like help solving any of the problems join the #slack channel here: 
-[fahamuschool.slack.com](fahamuschool.slack.com)
+[fahamuschool.slack.com](https://fahamuschool.slack.com/)
 
