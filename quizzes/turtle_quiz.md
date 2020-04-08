@@ -38,13 +38,17 @@ the ``forward()`` and ``backward()`` methods.
 		c) color(colorstring1, colorstring2)  
 		d) none of the above  
 
-7) Use turtle to draw a rectangle that's 500 px wide, 50 px tall, and with a background color of purple. 
+7) Use turtle to draw a rectangle that's 500 px wide, 50 px tall, and with a background color of purple. Image of purple rectangle:
+
 ![purple rectangle](images/purple_rect.png)
 
 8) Use turtle to draw an octagon. An octagon is an eight-sided polygon that also contains eight angles. Make the length of each side equal to 100 pixels. 
+Image of octagon:
+
 ![octagon](images/octagon.jpg)
 
-9) Create a stop sign. A stop sign is simply an octagon with a red background, and the text STOP in the center. Use the figure you drew from question 8 as your base. 
+9) Create a stop sign. A stop sign is simply an octagon with a red background, and the text STOP in the center. Use the figure you drew from question 8 as 
+your base. Image of stop sign:
 
 ![stop sign](images/stop_sign.jpg)
 
