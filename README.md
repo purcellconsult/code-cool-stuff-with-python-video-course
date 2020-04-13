@@ -21,4 +21,30 @@ Control Flow Foundations  | Control the order in which statements execute in pyt
 | The Turtle Library | A fun and recreational guide to reinforce python programming principles	| [Quiz](/quizzes/turtle_quiz.md)	|
 | The Tkinter Library| Build desktop apps with Tkinter| [Quiz](/quizzes/tkinter_quiz.md) <br> [Temperature Converter](/projects/temperature_converter_project.md)
 
+
+## Course Objectives: 
+
+
+The goal of this course is to provide a comprehensive overview of the python scripting language using a project based approach. With mastery of the 
+fundamentals a student can apply their newfound knowledge to more specific uses cases that python solves such as machine learning, web development, 
+data analysis, scientific computing, and web scraping/ data collection. Students will accomplish the following in this course: 
+
+- How to get python setup on their computer
+- How to develop python scripts with the PyCharm IDE
+- The various data types in python
+- How to control the order in which statements execute in python
+- How to iterate using the for and while loops
+- How to import modules 
+- How to use try/except statements
+- How to process and manipulate strings
+- How to create your own functions
+- How to do object oriented programming in python 
+- How to computer graphics in python
+- How to build simple Desktop apps 
+- How to create a text based calculator 
+- How to build a random person generator
+- How to create a dice rolling game 
+- How to get your python programs hosted remotely using Git 
+
+
 The book is available on Amazon in [paperback](https://www.amazon.com/Code-Cool-Stuff-Python-Purcell/dp/0997326271) and [e-book](https://www.amazon.com/Code-Cool-Stuff-Python-Purcell-ebook/dp/B081XJMNRB) formats.
